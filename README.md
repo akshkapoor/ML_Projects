@@ -1,2 +1,2 @@
 # ML_Projects
-Contains all the ML Projects with code and data sets
+This Repository Contains all the Case Studies/Projects Python Code along with the datasets.
